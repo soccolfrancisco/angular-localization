@@ -2,6 +2,9 @@
 
 Este é o repositório do Angular Localization.
 
+Aplicação em execução
+* https://internacionalizacaodemo.web.app/en/
+
 ## Documentação
 
 #### Angular
